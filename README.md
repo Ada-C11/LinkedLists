@@ -12,8 +12,6 @@ With your pair answer the following questions:
 
 In plain English define the following terms:
 
-* Pointer
-* Reference
 * Doubly Linked List
 * Singly Linked List
 * Memory Leak
